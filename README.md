@@ -1,6 +1,6 @@
 # crypto_tracker
 
-A new Flutter project.
+A cryto app for monitoring price changes in cryto currencies
 
 ## Getting Started
 
